@@ -53,8 +53,6 @@
 
 </details>
 
----
-
 [twitter]: https://twitter.com/Quintas__
 [youtube]: https://www.youtube.com/channel/UCc9Hhwj_6up8EEU0IDhPb-Q
 [instagram]: https://www.instagram.com/caio_quintas_/
