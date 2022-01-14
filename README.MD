@@ -51,17 +51,9 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Quinntas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quinntas&show_icons=true&hide_border=true" />
+  <img align="left" alt="Quinntas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quinntas&show_icons=true&hide_border=true&theme=midnight-purple&hide_border=True" />
 
 </details>
 
