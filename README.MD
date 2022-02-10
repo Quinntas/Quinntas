@@ -36,16 +36,6 @@
 
 ---
 
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCc9Hhwj_6up8EEU0IDhPb-Q)
-
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
