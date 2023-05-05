@@ -15,25 +15,25 @@ class Skills extends Developer {
 }
 ```
 
-## **GitHub Stats**
-
-<a href="https://github.com/Quinntas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinntas&theme=dracula&hide_langs_below=1&line_height=27" />
-</a>
-
-<a href="https://github.com/Quinntas">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quinntas&show_icons=true&theme=dracula&line_height=27" alt="**Quintas** github stats"/>
-</a>
-
 [website]: https://quintas-gui.vercel.app/
 
 [twitter]: https://twitter.com/https_quintas
 
 [linkedin]: https://www.linkedin.com/in/caio-quintas/
-<br>
 
 #### Socials
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
 👔 [linkedin][linkedin]
+
+## **GitHub Stats**
+
+<a href="https://github.com/Quinntas">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinntas&theme=dracula&hide_langs_below=1&line_height=27" />
+</a>
+
+<a href="https://github.com/Quinntas">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Quinntas&show_icons=true&theme=dracula&line_height=27" alt="**Quintas** github stats"/>
+</a>
+
