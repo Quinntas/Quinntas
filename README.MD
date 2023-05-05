@@ -17,12 +17,12 @@ class Skills extends Developer {
 
 ## **GitHub Stats**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinntas&theme=dracula&hide_langs_below=1" />
+<a href="https://github.com/Quinntas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinntas&theme=dracula&hide_langs_below=1&line_height=27" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quinntas&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Quinntas">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Quinntas&show_icons=true&theme=dracula&line_height=27" alt="**Quintas** github stats"/>
 </a>
 
 [website]: https://quintas-gui.vercel.app/
