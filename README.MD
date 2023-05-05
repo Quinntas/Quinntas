@@ -23,9 +23,9 @@ class Skills extends Developer {
 
 #### Socials
 
-🏡 [website][website] **|**
-🐦 [twitter][twitter] **|**
-👔 [linkedin][linkedin]
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+👔 [Linkedin][linkedin]
 
 ## **GitHub Stats**
 
