@@ -3,15 +3,15 @@ import Developer from 'Quintas_';
 
 class AboutMe extends Developer {
     name = 'Caio Quintas Santiago';
-    area = 'Backend/Data Analysis/AI Development';
+    area = ['Backend', 'Data Analysis', 'AI Development'];
     currentJob = 'Revpay';
-    location = 'Brasil';
+    location = 'Brazil';
 }
 
 class Skills extends Developer {
-    languages = ['mojo, typescript, rust, php, ruby, C#, C++'];
-    libraries = ['JWT, Numpy, TensorFlow...'];
-    frameworks = ['FastAPI, Express, Laravel, Ruby on Rails'];
+    languages = ['mojo', 'typescript', 'rust', 'php', 'ruby', 'C#', 'C++'];
+    libraries = ['JWT', 'Numpy', 'TensorFlow', ...];
+    frameworks = ['FastAPI', 'Express', 'Laravel', 'Ruby on Rails'];
 }
 ```
 
