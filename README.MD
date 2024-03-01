@@ -26,7 +26,7 @@ class Skills extends Developer {
 #### Socials
 
 🏡 [Website][website] **|**
-🎓 [Courses Soon][website] **|**
+🎓 [Courses Soon][courses] **|**
 🐦 [Twitter][twitter] **|**
 👔 [Linkedin][linkedin]
 
