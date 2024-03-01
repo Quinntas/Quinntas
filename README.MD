@@ -9,8 +9,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-    languages = ['mojo', 'typescript', 'rust', 'php', 'ruby', 'C#', 'C++'];
-    libraries = ['JWT', 'Numpy', 'TensorFlow', ...];
+    languages = ['python', 'typescript', 'go', 'rust', 'php', 'ruby', 'C#', 'C++'];
+    libraries = ['SpectreOrm', 'Numpy', 'TensorFlow', ...];
     frameworks = ['FastAPI', 'Express', 'Laravel', 'Ruby on Rails'];
 }
 ```
@@ -19,7 +19,7 @@ class Skills extends Developer {
 
 [twitter]: https://twitter.com/https_quintas
 
-[linkedin]: https://www.linkedin.com/in/caio-quintas/
+[linkedin]: https://www.linkedin.com/in/caio-quintas-368467181/
 
 #### Socials
 
