@@ -21,7 +21,7 @@ class Skills extends Developer {
 
 [linkedin]: https://www.linkedin.com/in/caio-quintas
 
-[courses]: https://encom-inky.vercel.app/apps/warden
+[courses]: https://warden-jade.vercel.app/
 
 #### Socials
 
