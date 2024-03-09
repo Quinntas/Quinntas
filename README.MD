@@ -21,12 +21,12 @@ class Skills extends Developer {
 
 [linkedin]: https://www.linkedin.com/in/caio-quintas
 
-[courses]: https://warden-jade.vercel.app/
+[courses]: https://www.wrdn.com.br/
 
 #### Socials
 
 🏡 [Website][website] **|**
-🎓 [Courses Soon][courses] **|**
+🎓 [Courses][courses] **|**
 🐦 [Twitter][twitter] **|**
 👔 [Linkedin][linkedin]
 
