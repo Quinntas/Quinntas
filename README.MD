@@ -15,7 +15,7 @@ class Skills extends Developer {
 }
 ```
 
-[website]: https://quintas-gui.vercel.app/
+[portfolio]: https://quinntas.github.io/portfolio/
 
 [twitter]: https://twitter.com/https_quintas
 
@@ -25,7 +25,7 @@ class Skills extends Developer {
 
 #### Socials
 
-🏡 [Website][website] **|**
+🏡 [Portfolio][portfolio] **|**
 🎓 [Courses][courses] **|**
 🐦 [Twitter][twitter] **|**
 👔 [Linkedin][linkedin]
